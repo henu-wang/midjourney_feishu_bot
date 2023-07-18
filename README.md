@@ -53,13 +53,7 @@
 
 ![](static/AFdWbIf7AoaRARxP7hocF1HOn6f.png)
 
-添加事件
 
-![](static/ELghbObUvoBOxuxQFRLca4D3noo.png)
-
-接受消息的事件，就这一个，注意是 V2.0， 不是下面那个历史版本
-
-![](static/GB5KbhTDJo1eCsxAoJ8cbfg9nHf.png)
 
 ### 2）获取 App ID， App Secret
 
@@ -247,6 +241,16 @@ sudo docker-compose up --build -d
 用于发送卡片信息的，
 
 消息卡片请求网址：http://你的公网 ip/card_message
+
+**完成以上步骤，如果缺了下面的一小步，等于啥也没干😭！！！**
+
+添加事件
+
+![](static/ELghbObUvoBOxuxQFRLca4D3noo.png)
+
+接受消息的事件，就这一个，注意是 V2.0， 不是下面那个历史版本
+
+![](static/GB5KbhTDJo1eCsxAoJ8cbfg9nHf.png)
 
 ### 13）发布机器人！
 
